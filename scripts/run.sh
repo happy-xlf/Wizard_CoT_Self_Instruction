@@ -1,0 +1,1 @@
+nohup bash vllm_server.sh > vllm_server.log 2>&1 &
